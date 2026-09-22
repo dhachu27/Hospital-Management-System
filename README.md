@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225220024
+# Name: dharshini
+# Date:20/09
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1bf04228-e241-448c-a5ad-3a701bdad4a6" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1037" height="692" alt="image" src="https://github.com/user-attachments/assets/0dae903a-a0ed-4766-9ad0-aa4d3c0ac2ba" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1043" height="548" alt="image" src="https://github.com/user-attachments/assets/355a69fc-8ece-48f3-aeb9-84065020bfb9" />
 
 
 
@@ -80,6 +83,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1037" height="547" alt="image" src="https://github.com/user-attachments/assets/9bd7581a-5337-4ef2-91f8-a0e83fe5e1d3" />
 
 
 
@@ -100,6 +104,7 @@ Describe the steps performed in a UML use case.
 
 
 
+<img width="1041" height="547" alt="image" src="https://github.com/user-attachments/assets/ae484f26-16c5-4d8f-9587-fcdf236c7ecf" />
 
 
 # SEQUENCE DIAGRAM
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1041" height="552" alt="image" src="https://github.com/user-attachments/assets/702a283c-0520-430e-b105-99f1c65ab7b5" />
 
 
 
